@@ -1,0 +1,6 @@
+killall screen
+while(true) do
+rm -fr ../.telegram-cli
+screen ./RUNTA.sh
+done
+echo -e "TAGEER IS RUN BOT"
